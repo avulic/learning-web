@@ -1,6 +1,5 @@
 # learning-web
-Project for learning web programming
-Create website application for project in multiple different technologies.
+Project for learning web programming. Create website applications for projects in multiple technologies.
 
 - [ ] Wiki page
 - [ ] Lending page
